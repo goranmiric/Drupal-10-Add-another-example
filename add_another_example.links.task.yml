@@ -1,0 +1,4 @@
+add_another_example.social_networks_tab:
+  route_name: add_another_example.social_networks
+  title: 'Social networks settings'
+  base_route: add_another_example.social_networks

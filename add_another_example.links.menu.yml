@@ -1,0 +1,5 @@
+add_another_example.social_networks:
+  title: 'Social networks'
+  route_name: add_another_example.social_networks
+  description: 'Social networks settings page.'
+  parent: system.admin_config_system

@@ -1,0 +1,5 @@
+add_another_example.social_networks:
+  title: 'Social networks settings'
+  base_route_name: add_another_example.social_networks
+  names:
+    - 'add_another_example.social_networks'

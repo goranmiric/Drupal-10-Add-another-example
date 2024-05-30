@@ -1,0 +1,20 @@
+add_another_example.social_networks:
+  type: config_object
+  label: 'Social networks settings'
+  mapping:
+    items:
+      type: sequence
+      label: Items
+      sequence:
+        type: mapping
+        label: Item
+        mapping:
+          icon:
+            type: string
+            label: 'Icon fid'
+          label:
+            type: label
+            label: 'Social networks name'
+          url:
+            type: label
+            label: 'Social networks url'

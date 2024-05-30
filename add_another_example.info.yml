@@ -1,0 +1,5 @@
+name: Add another example
+type: module
+description: 'Config form with "Add another" functionality.'
+package: Example
+core_version_requirement: ^10 || ^11

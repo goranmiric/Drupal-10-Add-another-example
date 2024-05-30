@@ -1,0 +1,9 @@
+add_another_example.social_networks:
+  path: '/admin/config/system/social-networks'
+  defaults:
+    _form: '\Drupal\add_another_example\Form\SocialNetworksSettingsForm'
+    _title: 'Social networks'
+  requirements:
+    _permission: 'administer site configuration'
+  options:
+    _admin_route: TRUE
